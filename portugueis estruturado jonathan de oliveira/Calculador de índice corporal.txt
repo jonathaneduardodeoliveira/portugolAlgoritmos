@@ -1,0 +1,46 @@
+{1}.Nome do programa "Calculador de índice corporal " 
+
+{2}.Ao executar o programa exiba na tela
+
+{3}.Este programa não substitui uma avaliação médica te dá uma estimativa da sua massa muscular
+
+{4}.Exiba na tela digite a sua altura
+
+{5}.A marzene a alturadigitada
+
+{6}.Exiba na tela digite o seu peso
+
+{7}.A marzene o peso digitado
+
+{8}.Exiba na tela a mensagem
+
+{9}.Se você faz exercício regular aperte r
+
+{10}.Se você faz exercício com pouca frequência aperte o p
+
+{11}.Se você se considera uma pessoa sedentária aperte s
+
+{12}.A marzene a opção escolhida
+
+{13}.Exiba na tela 
+
+{14}.pressione h se você for homem
+
+{15}.Pressione m se você for mulher
+
+{16}.A marzene a opção escolhida
+
+{17}.Digitou o metro e 70
+
+{18}.Digitou 60 kg
+
+{19}.Escolheu r  exercício regular
+
+{20}.Escolheu a opção m mulher
+
+{21}.Calcule em peso em metro ao quadrado
+
+{22}.De forma simplificada, temos: peso/(altura x altura).
+
+{23}. Exiba na tela
+{24}.Sua massa corporal é: 19.59kg/m2. 

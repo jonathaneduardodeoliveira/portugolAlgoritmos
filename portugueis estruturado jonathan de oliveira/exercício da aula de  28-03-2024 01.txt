@@ -1,0 +1,13 @@
+1.	1. Felipe, Fernanda e Luciana saírão para jantar.
+
+2.	Felipe consumiu no restaurante R$ 60,00;
+
+3.	Fernanda consumiu no restaurante R$ 45,00;
+
+4.	Luciana consumiu no restaurante R$ 15,00.
+
+5. Entrada Felipe R$ 60,00; Entrada Fernanda R$ 45,00; Entrada Luciana R$ 15,00 = R$ 120,00
+
+6. Todos concordaram em dividir a conta igualmente, 120/3 = R$ 40,00
+
+7. Cada um pagou R$ 40,00.

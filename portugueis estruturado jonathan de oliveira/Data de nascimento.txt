@@ -1,0 +1,15 @@
+1.Digite o ano que você nasceu 
+
+2.A marzene  O número digitado
+
+3.1990 Data de nascimento 
+
+4.Digite o ano atual
+
+5.2024Ano atual
+
+6.A marzene  O número digitado
+
+7.2024 (ano atual) - 1990 (ano de nascimento) = 34
+
+8.mostrar na tela   Data de nascimento  34 

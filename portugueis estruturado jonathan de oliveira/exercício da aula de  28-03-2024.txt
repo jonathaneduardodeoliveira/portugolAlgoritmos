@@ -1,0 +1,15 @@
+
+
+1. Início
+
+2. Ler o primeiro número (15)
+
+3. Ler o segundo número (45)
+
+4. Ler o terceiro número (60)
+
+5. Calcular a média :
+ primeiro número (15) + segundo número (45) + terceiro número (60) = 120 / 3 = 40
+
+6. Mostrar a média 40 
+7. Fim
